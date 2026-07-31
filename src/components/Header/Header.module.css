@@ -1,0 +1,13 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e9ecef;
+  padding: 12px 24px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}

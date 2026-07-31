@@ -1,0 +1,9 @@
+.emptyText {
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.itemPrice {
+  font-weight: 600;
+}
